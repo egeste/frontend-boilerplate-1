@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "sinon": "~1"
+  , "jasmine-sinon": "*"
+  }
+}

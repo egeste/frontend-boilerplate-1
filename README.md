@@ -1,4 +1,4 @@
-karma-jasmine-bower-require-coffeescript-boilerplate
+karma-jasmine-sinon-bower-require-coffeescript-boilerplate
 ====================================================
 
-A boilerplate setup for starting a project using the karma (testacular) test runner, jasmine BDD testing framework, bower component manager, requirejs AMD, and coffeescript compiler
+A boilerplate setup for starting a frontend project using the karma test runner, jasmine BDD testing framework, sinon spies stubs & mocks, bower component manager, requirejs AMD, and coffeescript compiler

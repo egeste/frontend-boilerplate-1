@@ -1,0 +1,1 @@
+../../components/sinon/lib/sinon.js
